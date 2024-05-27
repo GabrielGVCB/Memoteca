@@ -1,27 +1,34 @@
 {
   "pensamentos": [
-
     {
-      "id": 1,
+      "id": "1",
       "conteudo": "Que bom que você veio",
       "autoria": "GV",
       "modelo": "modelo1"
     },
-
     {
-      "id": 1,
+      "id": "1",
       "conteudo": "Estudando Angular",
       "autoria": "GV",
       "modelo": "modelo2"
     },
-
     {
-      "id": 1,
+      "id": "1",
       "conteudo": "Angular the best",
       "autoria": "GV",
       "modelo": "modelo3"
+    },
+    {
+      "id": "0b3e",
+      "conteudo": "eu amo a ninha",
+      "autoria": "GABRI",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "dc41",
+      "conteudo": "AMO A NINHA",
+      "autoria": "gvzin du grau",
+      "modelo": "modelo2"
     }
-
   ]
-
 }
